@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Syed-Kumail-Naqvi
-- 👀 I’m interested in Sports, Mathematics, Coding.
+- 👀 I’m interested in Sports, Mathematics, Coding, Communicating
 - 🌱 I’m currently learning HTML, CSS, BOOTSTRAP, JavaScript & React
 - 💞️ I’m looking to collaborate on Linkedlin & GitHub
 - 📫 How to reach me syedkumailnaqvi82@gmail.com
