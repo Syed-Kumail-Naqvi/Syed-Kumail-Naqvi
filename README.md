@@ -1,5 +1,7 @@
 Hey👋, I'm Syed Kumail Naqvi
+
 A Passionate & Dedicated "Frontend/Backend Developer & Data Scientist"
+
 🔭 Currently Working On JavaScript, React.js 
 
 🌱 I’m Currently Learning NodeJs, ExpressJs, MongoDB
@@ -14,9 +16,5 @@ A Passionate & Dedicated "Frontend/Backend Developer & Data Scientist"
 
 ⚡ Fun fact: Circle Has No Ends XD!!!!
 
-Connect with me:
-
 Languages and Tools:
-bootstrap css3 express figma firebase git html5 javascript mongodb nextjs nodejs react redux tailwind typescript
-
-
+Bootstrap, CSS3, Express, Firebase, GitHub, HTML5, Javascript, MongoDB, NodeJS, React, Typescript
