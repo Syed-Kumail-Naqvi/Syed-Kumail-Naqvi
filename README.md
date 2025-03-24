@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @Syed-Kumail-Naqvi
-- 👀 I’m interested in Sports, Mathematics, Coding, Communicating
-- 🌱 I’m currently learning HTML, CSS, BOOTSTRAP, JavaScript & React
-- 💞️ I’m looking to collaborate on Linkedlin & GitHub
-- 📫 How to reach me syedkumailnaqvi82@gmail.com
-- 😄 Pronouns: he/his/him
-- ⚡ Fun fact: Circle has no Ends hehe XD!!!
+Hey👋, I'm Syed Kumail Naqvi
+A Passionate & Dedicated "Frontend/Backend Developer & Data Scientist"
+🔭 Currently Working On JavaScript, React.js 
 
-<!---
-Syed-Kumail-Naqvi/Syed-Kumail-Naqvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 I’m Currently Learning NodeJs, ExpressJs, MongoDB
+
+👯 Looking to Collaborate on I’m Eager to Team up on Software Innovation and Cutting-Edge Tech Projects
+
+🤝 Also Looking For Help With Writing Better Logics and Solving Complex Problems Efficiently.
+
+💬 Ask me about JavaScript, CSS, ReactJs, & HTML 
+
+📫 How to reach me syedkumailnaqvi82@gmail.com
+
+⚡ Fun fact: Circle Has No Ends XD!!!!
+
+Connect with me:
+
+Languages and Tools:
+Bootstrap CSS3 Express Figma Firebase Git HTML5 Javascript Mongodb Nextjs Nodejs React Typescript
