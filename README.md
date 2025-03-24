@@ -17,4 +17,6 @@ A Passionate & Dedicated "Frontend/Backend Developer & Data Scientist"
 Connect with me:
 
 Languages and Tools:
-Bootstrap CSS3 Express Figma Firebase Git HTML5 Javascript Mongodb Nextjs Nodejs React Typescript
+bootstrap css3 express figma firebase git html5 javascript mongodb nextjs nodejs react redux tailwind typescript
+
+
