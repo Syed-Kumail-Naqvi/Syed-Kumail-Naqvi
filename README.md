@@ -29,4 +29,4 @@ HTML5 | CSS3 | JavaScript
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> 
 </p>
 
-# <p align="center><b> ⚡ **Fun Fact:** *A Circle Has No Ends! XD* </b></p>
+# <b> ⚡ **Fun Fact:** *A Circle Has No Ends! XD* </b>
