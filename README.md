@@ -7,10 +7,10 @@
 👯 **Looking to Collaborate on:** Software Innovation & Cutting-Edge Tech Projects  
 🤝 **Seeking Help With:** Writing Better Logics & Solving Complex Problems Efficiently  
 
-💬 **Ask Me About:**  
+## 💬 **Ask Me About:**  
 JavaScript | CSS | React.js | HTML  
 
-📫 **Contact Me:**  
+## 📫 **Contact Me:**  
 📧 syedkumailnaqvi82@gmail.com  
 
 ⚡ **Fun Fact:** *A Circle Has No Ends! XD*  
