@@ -1,20 +1,32 @@
-Hey👋, I'm Syed Kumail Naqvi
+# <p align="center"><b>👋 Hey, I'm Syed Kumail Naqvi!</b></p>
+# <p align="center"><b>🚀 A Passionate & Dedicated Frontend/Backend Developer & Data Scientist</b></p>
 
-A Passionate & Dedicated "Frontend/Backend Developer & Data Scientist"
+## 🌟 About Me
+🔭 **Currently Working On:** JavaScript, React.js  
+🌱 **Currently Learning:** Node.js, Express.js, MongoDB  
+👯 **Looking to Collaborate on:** Software Innovation & Cutting-Edge Tech Projects  
+🤝 **Seeking Help With:** Writing Better Logics & Solving Complex Problems Efficiently  
 
-🔭 Currently Working On JavaScript, React.js 
+💬 **Ask Me About:**  
+JavaScript | CSS | React.js | HTML  
 
-🌱 I’m Currently Learning NodeJs, ExpressJs, MongoDB
+📫 **Contact Me:**  
+📧 syedkumailnaqvi82@gmail.com  
 
-👯 Looking to Collaborate on I’m Eager to Team up on Software Innovation and Cutting-Edge Tech Projects
+⚡ **Fun Fact:** *A Circle Has No Ends! XD*  
 
-🤝 Also Looking For Help With Writing Better Logics and Solving Complex Problems Efficiently.
+🛠️ Languages & Tools
 
-💬 Ask me about JavaScript, CSS, ReactJs, & HTML 
-
-📫 How to reach me syedkumailnaqvi82@gmail.com
-
-⚡ Fun fact: Circle Has No Ends XD!!!!
-
-Languages and Tools:
-Bootstrap, CSS3, Express, Firebase, GitHub, HTML5, Javascript, MongoDB, NodeJS, React, Typescript
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> 
+</p>
