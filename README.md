@@ -1,31 +1,23 @@
 # <p align="center"><b>👋 Hey, I'm Syed Kumail Naqvi!</b></p>
 # <p align="center"><b>🚀 A Passionate & Dedicated Frontend/Backend Developer & Data Scientist</b></p>
 
-<p align="center">
-  ## 🌟 About Me
-  🔭 **Currently Working On:** JavaScript, React.js  
-  🌱 **Currently Learning:** Node.js, Express.js, MongoDB  
-  👯 **Looking to Collaborate On:** Software Innovation & Cutting-Edge Tech Projects  
-  🤝 **Seeking Help With:** Writing Better Logics & Solving Complex Problems Efficiently  
-</p>
+## 🌟 About Me
+🔭 **Currently Working On:** JavaScript, React.js  
+🌱 **Currently Learning:** Node.js, Express.js, MongoDB  
+👯 **Looking to Collaborate On:** Software Innovation & Cutting-Edge Tech Projects  
+🤝 **Seeking Help With:** Writing Better Logics & Solving Complex Problems Efficiently  
 
-<p align="center">
-  ## 💬 **Ask Me About:**  
-  HTML5 | CSS3 | JavaScript  
-</p>
+## 💬 **Ask Me About:**  
+HTML5 | CSS3 | JavaScript  
 
-<p align="center">
-  ## 📫 **Contact Me:**  
-  📧 syedkumailnaqvi82@gmail.com  
-</p>
+## 📫 **Contact Me:**  
+📧 syedkumailnaqvi82@gmail.com  
 
 <p align="center">
   <b>⚡ **Fun Fact:** *A Circle Has No Ends! XD* </b> 
 </p>
 
-<p align="center">
-  ## 🛠️ Languages & Tools
-</p>
+## 🛠️ Languages & Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
