@@ -13,9 +13,7 @@ HTML5 | CSS3 | JavaScript
 ## 📫 **Contact Me:**  
 📧 syedkumailnaqvi82@gmail.com  
 
-<p align="center">
-  <b>⚡ **Fun Fact:** *A Circle Has No Ends! XD* </b> 
-</p>
+<b>⚡ **Fun Fact:** *A Circle Has No Ends! XD* </b> 
 
 ## 🛠️ Languages & Tools
 
