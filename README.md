@@ -4,18 +4,18 @@
 ## 🌟 About Me
 🔭 **Currently Working On:** JavaScript, React.js  
 🌱 **Currently Learning:** Node.js, Express.js, MongoDB  
-👯 **Looking to Collaborate on:** Software Innovation & Cutting-Edge Tech Projects  
+👯 **Looking to Collaborate On:** Software Innovation & Cutting-Edge Tech Projects  
 🤝 **Seeking Help With:** Writing Better Logics & Solving Complex Problems Efficiently  
 
 ## 💬 **Ask Me About:**  
-JavaScript | CSS | React.js | HTML  
+HTML5 | CSS3 | JavaScript  
 
 ## 📫 **Contact Me:**  
 📧 syedkumailnaqvi82@gmail.com  
 
-⚡ **Fun Fact:** *A Circle Has No Ends! XD*  
+## ⚡ **Fun Fact:** *A Circle Has No Ends! XD*  
 
-🛠️ Languages & Tools
+## 🛠️ Languages & Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
