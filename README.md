@@ -15,7 +15,7 @@ HTML5 | CSS3 | JavaScript
 
 ## 🛠️ Languages & Tools
 
-<p align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> 
@@ -29,4 +29,4 @@ HTML5 | CSS3 | JavaScript
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> 
 </p>
 
-# <b> ⚡ **Fun Fact:** *A Circle Has No Ends! XD* </b>
+# ⚡ **Fun Fact:** *A Circle Has No Ends! XD*
