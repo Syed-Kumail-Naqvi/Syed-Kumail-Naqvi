@@ -13,8 +13,6 @@ HTML5 | CSS3 | JavaScript
 ## 📫 **Contact Me:**  
 📧 syedkumailnaqvi82@gmail.com  
 
-<b>⚡ **Fun Fact:** *A Circle Has No Ends! XD* </b> 
-
 ## 🛠️ Languages & Tools
 
 <p align="center">
@@ -30,3 +28,5 @@ HTML5 | CSS3 | JavaScript
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> 
 </p>
+
+## ⚡ **Fun Fact:** *A Circle Has No Ends! XD*
