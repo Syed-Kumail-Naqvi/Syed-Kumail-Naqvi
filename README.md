@@ -1,5 +1,5 @@
 # <p align="center"><b>👋 Hey, I'm Syed Kumail Naqvi!</b></p>
-# <p align="center"><b>🚀 A Passionate & Dedicated Frontend & Backend Developer</b></p>
+# <p align="center"><b>🚀 A Passionate & Dedicated Frontend/Backend Developer</b></p>
 
 ## 🌟 About Me
 🔭 **Currently Working On:** JavaScript, React.js  
