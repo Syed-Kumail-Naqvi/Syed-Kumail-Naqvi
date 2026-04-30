@@ -1,32 +1,62 @@
-# <p align="center"><b>👋 Hey, I'm Syed Kumail Naqvi!</b></p>
-# <p align="center"><b>🚀 A Passionate & Dedicated Frontend/Backend Developer</b></p>
+# Hey, I'm Syed Kumail Naqvi
 
-## 🌟 About Me
-🔭 **Currently Working On:** JavaScript, React.js  
-🌱 **Currently Learning:** Node.js, Express.js, MongoDB  
-👯 **Looking to Collaborate On:** Software Innovation & Cutting-Edge Tech Projects  
-🤝 **Seeking Help With:** Writing Better Logics & Solving Complex Problems Efficiently  
+Full Stack Developer | Future Data Scientist | Undergraduate Student
 
-## 💬 **Ask Me About:**  
-HTML5 | CSS3 | JavaScript  
+---
 
-## 📫 **Contact Me:**  
-📧 syedkumailnaqvi82@gmail.com  
+## About Me
 
-## 🛠️ Languages & Tools
+I am a passionate Full Stack Developer and Data Science student based in Karachi, Pakistan.
+I enjoy building scalable web applications and solving real-world problems using data-driven approaches.
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> 
-</p>
+I have hands-on experience in modern web technologies and have worked in a team environment, leading development efforts and delivering impactful solutions.
 
-## ⚡ **Fun Fact:** *A Circle Has No Ends! XD*
+---
+
+## Education
+
+* **Bachelor's in Data Science** — Dawood University of Engineering & Technology *(2024 – Present)*
+* **Intermediate (Science General)** — Government National College *(2022 – 2024)*
+* **Matriculation (Computer Science)** — Warsis Education System *(2022)*
+
+---
+
+## Skills
+
+### Development
+
+* HTML5, CSS3, JavaScript (ES6+)
+* React.js, Next.js, Node.js, Express.js, NestJS
+* MongoDB, MySQL, PostgreSQL
+* Tailwind CSS, Bootstrap, TypeScript
+
+### Tools & Platforms
+
+* Git & GitHub
+* Postman, Swagger
+* Vercel, Netlify, Render, Railway
+
+### Data Science
+
+* Python
+* Pandas, NumPy
+* Scikit-learn (K-Means, Standardization)
+* Matplotlib, Seaborn
+
+---
+
+## Portfolio
+
+https://my-i-portfolio.netlify.app/
+
+---
+
+## Contact
+
+* [syedkumailnaqvi82@gmail.com](mailto:syedkumailnaqvi82@gmail.com)
+* LinkedIn: https://www.linkedin.com/in/syed-kumail-naqvi-4445b5323
+* GitHub: https://github.com/Syed-Kumail-Naqvi
+
+---
+
+*Focused on continuous learning, leadership, and building impactful digital solutions.*
