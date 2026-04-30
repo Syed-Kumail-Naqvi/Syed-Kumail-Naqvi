@@ -53,7 +53,7 @@ https://my-i-portfolio.netlify.app/
 
 ## Contact
 
-* [syedkumailnaqvi82@gmail.com](mailto:syedkumailnaqvi82@gmail.com)
+* Email: [syedkumailnaqvi82@gmail.com](mailto:syedkumailnaqvi82@gmail.com)
 * LinkedIn: https://www.linkedin.com/in/syed-kumail-naqvi-4445b5323
 * GitHub: https://github.com/Syed-Kumail-Naqvi
 
