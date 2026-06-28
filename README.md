@@ -45,12 +45,6 @@ I have hands-on experience in modern web technologies and have worked in a team 
 
 ---
 
-## Portfolio
-
-https://my-i-portfolio.netlify.app/
-
----
-
 ## Contact
 
 * Email: [syedkumailnaqvi82@gmail.com](mailto:syedkumailnaqvi82@gmail.com)
